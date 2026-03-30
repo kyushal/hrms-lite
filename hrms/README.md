@@ -182,3 +182,6 @@ Frontend will be available at: `http://localhost:5173`
 - Departments are a fixed predefined list in the frontend
 - Leave management, payroll, and other HR features are out of scope
 - Attendance can only be marked once per employee per date (no edits)
+
+## 🛠 Live Link
+- https://hrms-lite-ten-rouge.vercel.app/
